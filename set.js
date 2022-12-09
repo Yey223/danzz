@@ -6,13 +6,13 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://danzzapi.xyz': 'YOUR APIKEY',
+	'https://danzzapi.xyz': '927j59de9c',
 }
 
 // Other
 global.apikey = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.apikeyprem = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
+global.apikeyprem = ['927j59de9c'] // Get in: https://danzzapi.xyz
+global.apikeyvip = ['927j59de9c'] // Get in: https://danzzapi.xyz
 global.namabot = ['Tegar Botz']
 global.namaowner = ['Tegar Coding']
 global.owner = ['62895323254598']
