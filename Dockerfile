@@ -4,7 +4,6 @@ RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
   imagemagick \
-  yarn /
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
